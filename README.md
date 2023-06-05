@@ -29,3 +29,5 @@ Feel free to explore my GitHub repositories for more interesting projects!
 - Email: ogunsoladebayo@gmail.com
 
 I am always open to new opportunities and collaborations, so don't hesitate to reach out if you'd like to connect or discuss a project. Let's build something amazing together! 🚀
+
+[![](https://visitcount.itsvg.in/api?id=ogunsoladebayo&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
