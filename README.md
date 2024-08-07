@@ -27,8 +27,8 @@ Feel free to explore my GitHub repositories for more interesting projects!
 
 Some open source contributions so far:
 
-- **Docker**: [https://github.com/docker/docs/pull/14025](https://github.com/docker/docs/pull/14025)
-- **Nestjs**: [https://github.com/nestjs/docs.nestjs.com/pull/2295](https://github.com/nestjs/docs.nestjs.com/pull/2295)
+- [**Docker**](https://github.com/docker/docs/pull/14025)
+- [**Nestjs**](https://github.com/nestjs/docs.nestjs.com/pull/2295)
 
 ## Contact Me
 
