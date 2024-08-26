@@ -15,8 +15,9 @@ I am a passionate software developer with over 4 years of experience, specializi
 
 ## Projects
 
-Here are some of the exciting projects I have worked on:
+I currently maintain the following projects:
 
+- **Omni Cloud**: https://github.com/ogunsoladebayo/omni-cloud
 - **QWallet**: https://github.com/ogunsoladebayo/Q-wallet
 - **Birthday Messenger Bot**: https://github.com/ogunsoladebayo/BirthdayMessengerBot
 - **Octo Wallet**: https://github.com/ogunsoladebayo/Octo-Wallet
@@ -25,7 +26,7 @@ Feel free to explore my GitHub repositories for more interesting projects!
 
 ## Open Source Contributions
 
-Some open source contributions so far:
+Some other open source contributions so far:
 
 - [**Docker**](https://github.com/docker/docs/pull/14025)
 - [**Nestjs**](https://github.com/nestjs/docs.nestjs.com/pull/2295)
