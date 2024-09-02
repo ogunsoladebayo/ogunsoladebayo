@@ -1,7 +1,15 @@
 # Hi there! 👋 I'm Usman Ogunsola
 
 ## About Me
-I am a passionate software developer with over 4 years of experience, specializing in back-end development. I love building dynamic web projects and have expertise in all stages of the development cycle. My programming skills are diverse, and I am well-versed in numerous languages and frameworks, including Python, JavaScript/TypeScript, and C#. I am comfortable working with various development tools such as Django, Node.js, Express.js, Nest.js, and .NET Core.
+
+💻 Backend Developer | Cloud Enthusiast | Open Source Contributor
+
+
+I am a passionate software developer with over 5 years of experience. I love building dynamic web projects and have expertise in all stages of the development cycle.
+
+🚀 **Currently building [Omni Cloud](https://github.com/ogunsoladebayo/omni-cloud) that simplifies and unifies working with different cloud service file storage.**  
+I'm creating a seamless API to handle file storage operations, whether you're working with AWS S3, Google Cloud Storage, Azure Blob Storage, or any other provider. Stay tuned for updates!
+
 
 ## Skills
 
@@ -31,10 +39,9 @@ Some other open source contributions so far:
 - [**Docker**](https://github.com/docker/docs/pull/14025)
 - [**Nestjs**](https://github.com/nestjs/docs.nestjs.com/pull/2295)
 
-## Contact Me
 
-- LinkedIn: https://linkedin.com/in/ogunsoladebayo
-- Email: ogunsoladebayo@gmail.com
+📫 Check out my work and connect with me:  
+[GitHub](https://github.com/ogunsoladebayo) | [LinkedIn](https://www.linkedin.com/in/ogunsoladebayo) | [Email](mailto:ogunsoladebayo@gmail.com)
 
 I am always open to new opportunities and collaborations, so don't hesitate to reach out if you'd like to connect or discuss a project. Let's build something amazing together! 🚀
 
